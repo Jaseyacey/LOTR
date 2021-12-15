@@ -1,5 +1,5 @@
 # LOTRFACTS
-A Reatc Native App written in Javascript. 
+A React Native App written in Javascript. 
 This app uses the open source API from https://tolkien-api.herokuapp.com/index.html written by https://github.com/mudroljub
 
 This is just a fun app I am playing around with. 
